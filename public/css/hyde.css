@@ -62,33 +62,33 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+@media (min-width: 24rem) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 12rem;
+    text-align: right;
+  }
+}
+@media (min-width: 32rem) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 12rem;
+    text-align: right;
+  }
+}
 @media (min-width: 48rem) {
   .sidebar {
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 24rem;
-    text-align: right;
-  }
-}
-@media (min-width: 64rem) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 24rem;
-    text-align: right;
-  }
-}
-@media (min-width: 96rem) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 44rem;
+    width: 22rem;
     text-align: right;
   }
 }
