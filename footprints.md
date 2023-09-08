@@ -7,10 +7,7 @@ title: Footprints
   Let’s run away<br>
   I think we just need to go some place<br>
   You look like you could cry any moment now<br>
-  It’s okay
-
-  How many roads must a man walk down<br>
-  Before you call him a man?<br>
+  It’s okay<br>
   - <i>Run With Me</i>, Sunwoojunga
 </p>
 

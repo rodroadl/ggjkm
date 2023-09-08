@@ -40,13 +40,7 @@ Before this program, I studied Mathematics education in my undergraduate at [San
 * Math Preparion course for incoming align student, Pf. Richard Hosino, Winter 2021, Summer 2022, Winter 2022, Summer 2023
 
 #### Project
-For a list of projects, please see [\[Projects\]](http://ggjkm.com/projects/) page.
-
-* Evaluation of Augmented Reality Guidance for the First Assistant, 2019 Intuitive Clinical Research Grant
-* Augmented Reality for First Assistant in Robotics Surgery, 2018 Intuitive Technology Research Grant
-* Augmented Reality for Combat Medics Training, 2015 – 2017 [\[project\]](http://smarts.lcsr.jhu.edu/research/augmented-reality-hmd-research/)
-* Calibration Methods for Optical See-Through Head-Mounted Display, 2015 – 2017 [\[project\]](http://smarts.lcsr.jhu.edu/research/augmented-reality-hmd-research/)
-* Ethernet-Firewire Firmware for da Vinci Research Kit, 2014 [\[project\]](http://smarts.lcsr.jhu.edu/research/#Open_Source_Controller_for_da_Vinci_Research_Kit)
+TBA
 
 ### Experience
 * Trainee Teacher - Math, Attached Girl's Highschool to College of Education, SangMyung University, Apr 2021
