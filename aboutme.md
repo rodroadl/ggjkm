@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-<p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="JK" style="width:15rem;height:15rem;" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="JK" style="width:15rem;height:18rem;" align="right"/></p>
 
 <blockquote class="full-width"><p>Mathematician, Computer Scientist</p></blockquote>
 
