@@ -1,6 +1,6 @@
 # My Blog
 
-Recording pieces of code and life. [http://longqian.me](http://longqian.me)
+Recording pieces of code and life. [http://ggjkm.com](http://ggjkm.com)
 
 ### Theme
 
