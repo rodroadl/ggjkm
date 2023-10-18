@@ -40,7 +40,7 @@ Before this program, I studied Mathematics education in my undergraduate at [San
 * Math Preparion course for incoming align student, Pf. Richard Hosino, Winter 2021, Summer 2022, Winter 2022, Summer 2023
 
 #### Project
-TBA
+TBU
 
 ### Experience
 * Trainee Teacher - Math, Attached Girl's Highschool to College of Education, SangMyung University, Apr 2021
